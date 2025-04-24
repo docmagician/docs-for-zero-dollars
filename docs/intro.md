@@ -10,3 +10,6 @@ This guide is here to show you how to create professional, scalable, and free do
 Whether you’re documenting your product for the first time or just looking to streamline your existing docs, this step-by-step guide will walk you through everything from writing in Markdown to launching a live, searchable documentation site. And yes, it’s all completely free.
 
 Ready to dive in? Let’s get started!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/docmagician/docs-for-zero-dollars/main/assets/intro.png" alt="icon" width="350" height="350" />
+</p>
