@@ -5,9 +5,11 @@ But here’s the thing, skipping it altogether can hurt you in the long run. Ins
 
 Here’s the good news, you don’t need a huge budget or a team of writers to get started. You can build a solid documentation workflow using just a few free, open-source tools.
 
-This guide is here to show you how to create professional, scalable, and free documentation using tools you probably already know: Markdown, Visual Studio Code, GitHub, Docusaurus, and Netlify.
+### Who is this guide for?
 
-Whether you’re documenting your product for the first time or just looking to streamline your existing docs, this step-by-step guide will walk you through everything from writing in Markdown to launching a live, searchable documentation site. And yes, it’s all completely free.
+This guide is for startup founders, product managers, developers, technical writers, and small teams who need to create clear, useful documentation without a large budget. Whether you're just starting or growing quickly, this guide will show you how to set up professional documentation without spending a lot.
+
+You don’t need to be a technical writing expert. This guide is for anyone involved in building or managing a product who wants to make documentation easier to create and maintain. If you’re looking for a simple way to help users understand your product, improve team processes, or cut down on support issues, this guide will show you how.
 
 Ready to dive in? Let’s get started!
 <p align="center">
