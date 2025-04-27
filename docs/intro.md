@@ -7,7 +7,7 @@ Here’s the good news, you don’t need a huge budget or a team of writers to g
 
 ### Who is this guide for?
 
-This guide is for startup founders, product managers, developers, technical writers, and small teams who need to create clear, useful documentation without a large budget. Whether you're just starting or growing quickly, this guide will show you how to set up professional documentation without spending a lot.
+This guide is for **startup founders, product managers, developers, technical writers**, and **small teams** who need to create clear, useful documentation without a large budget. Whether you're just starting or growing quickly, this guide will show you how to set up professional documentation without spending a lot.
 
 You don’t need to be a technical writing expert. This guide is for anyone involved in building or managing a product who wants to make documentation easier to create and maintain. If you’re looking for a simple way to help users understand your product, improve team processes, or cut down on support issues, this guide will show you how.
 
