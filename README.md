@@ -27,8 +27,13 @@ Start by opening the [docs](https://github.com/docmagician/docs-for-zero-dollars
 ## Want to contribute?
 If you know about other free tools or have tips that helped you, feel free to open an issue or send a pull request. The more useful this becomes for others, the better.
 
-Make your docs.  
-Make them free.  
-Make them count.  
+<div style="display: flex; align-items: center;">
+    <p style="flex-grow: 1; font-size: 20px; font-weight: bold; margin-right: 10px;">
+        Make your docs.<br>
+        Make them free.<br>
+        Make them count.<br><br>
+        <strong>Zero Dollar Doc</strong>
+    </p>
+    <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/docmagician/docs-for-zero-dollars/8478db58cba7f840c0bef41367902eab56ad5695/assets/giphy-ezgif.com-cut.gif" />
+</div>
 
-Zero Dollar Doc
