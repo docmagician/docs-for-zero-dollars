@@ -25,3 +25,42 @@ It’s fast, customizable, and has a huge collection of extensions that can impr
 1. Choose a place on your computer to store your docs (e.g., Desktop or Documents)
 2. Create a new folder and name it something like my-docs
 3. Inside that folder, create a new file called getting-started.md
+
+3. Open the folder in VS Code
+Open VS Code
+
+Click File > Open Folder and select the folder you just created
+
+Your new Markdown file (getting-started.md) should be visible in the file explorer
+
+4. Add your first content
+Open getting-started.md and paste this starter content:
+
+markdown
+Copy
+Edit
+---
+title: Getting Started
+slug: /getting-started
+---
+
+## Welcome to the Docs
+
+This is your first documentation page. 🎉
+
+You can:
+- Make bullet lists
+- Use **bold** or *italic* text
+- Add [links](https://example.com)
+- Write `inline code` or full code blocks
+5. Install helpful extensions (optional but recommended)
+In VS Code, install these extensions to make writing easier:
+
+Markdown Preview Enhanced
+Shows a live preview of your Markdown.
+To install: Open the Extensions tab (Ctrl + Shift + X), search for the extension, and click Install.
+Use Ctrl + Shift + V to preview your file.
+
+Prettier – Code Formatter
+Automatically formats your Markdown every time you save.
+After installing, go to Settings (Ctrl + ,), search for Format On Save, and enable it.
