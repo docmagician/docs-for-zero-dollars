@@ -28,7 +28,58 @@ It’s fast, customizable, and has a huge collection of extensions that can impr
 
 3. Open VS Code, click File > Open Folder, and select the folder you just created.  
    Your new Markdown file (getting-started.md) should be visible in the file explorer.  
-4. Add your first content
+4. Add your first content.
+Before you add your content, start by adding the frontmatter (the part with ---, title, and slug) at the very top of each file. The frontmatter gives the static site generator important details about your content, like its title and how it should be displayed.
+Here’s an example of what the frontmatter looks like:
+```
+---
+title: "The name of your page"
+slug: "The URL path for this page"
+date: 2025-05-29
+tags:
+  - markdown
+  - static-site
+category: "Guides"
+--- 
+```
+🛠️ Install these free VS Code extensions
+
+To make your Markdown writing smoother, install these two free extensions:
+
+✅ Markdown Preview Enhanced
+This extension shows a live preview of your Markdown as you type, helping you see exactly how your content will look.
+
+✅ Prettier – Code Formatter
+Prettier automatically formats your Markdown files every time you save, keeping your code clean and consistent.
+
+How to install and use it:
+
+Open the Extensions panel in VS Code.
+
+Search for your add-ins’ name and click Install.
+
+For Previewer: Once installed, press Ctrl + Shift + V to open the live preview next to your editor.
+
+For Prettier: After installation, open Settings (Ctrl + ,), search for Format On Save, and turn it on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 markdown
