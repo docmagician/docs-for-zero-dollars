@@ -26,15 +26,10 @@ It’s fast, customizable, and has a huge collection of extensions that can impr
 2. Create a new folder and name it something like my-docs
 3. Inside that folder, create a new file called getting-started.md
 
-3. Open the folder in VS Code
-Open VS Code
-
-Click File > Open Folder and select the folder you just created
-
-Your new Markdown file (getting-started.md) should be visible in the file explorer
-
+3. Open VS Code, click File > Open Folder, and select the folder you just created.  
+   Your new Markdown file (getting-started.md) should be visible in the file explorer.  
 4. Add your first content
-Open getting-started.md and paste this starter content:
+
 
 markdown
 Copy
