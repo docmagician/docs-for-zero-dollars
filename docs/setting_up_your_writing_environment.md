@@ -7,7 +7,7 @@ That’s a totally fair question. The good news is, you don’t need anything fa
 For this setup, we’re going to use **Markdown** as the writing format and **Visual Studio Code (VS Code)** as the editor. Both are lightweight, powerful, and completely free.
 
 ## Why Markdown?
-Markdown is a super simple, clean way to write formatted text using plain text. It lets you add headings, lists, links, and even code blocks without messing around with clunky menus or strange formatting.  
+Markdown is a simple, clean way to write formatted text using plain text. It lets you add headings, lists, links, and even code blocks without messing around with clunky menus or strange formatting.  
 
 ## Why Visual Studio Code (VS Code)
 VS Code is a free, open-source code editor made by Microsoft. It works on Windows, macOS, and Linux, and has excellent support for Markdown files.
